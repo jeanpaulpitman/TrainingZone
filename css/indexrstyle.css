@@ -108,6 +108,63 @@
 						
 						}
 						
+				.forms label {
+						font-weight:bold;
+						margin:0;
+						}
+				.forms input {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+						
+				.forms textarea {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+				
+				.forms-submit {
+					    width: 100%;
+						background-color: yellow;
+						color: black;
+						font-weight:bold;
+						padding: 1em 1em;
+						margin: 1em 0;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						cursor: pointer;
+				}
+
+				.forms-checkbox {
+						padding: .5em 1em;
+						margin: 1em 0;
+						cursor: pointer;
+				}
+				
+					.forms {
+						color:yellow;
+						padding: .5em 1em;
+						}
+					
+					.forms h1,p {
+						text-align:center;
+						
+						}
+
+					.forms h1 {
+						color:yellow
+						
+						}
+						
 				.search {
 						padding: .5em 1em;
 						background-color:#c0d8e0;	
