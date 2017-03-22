@@ -99,6 +99,93 @@
 						background-color:#56a3a6;	
 						}
 						
+				.formsbig h1, p {
+						text-align:center;						
+						}
+						
+			.formsbig label {
+						font-weight:bold;
+						margin:0;
+						}
+				.formsbig input {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+						
+				.formsbig textarea {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+				
+				.formsbig-submit {
+					    width: 100%;
+						background-color: yellow;
+						color: black;
+						font-weight:bold;
+						padding: 1em 1em;
+						margin: 1em 0;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						cursor: pointer;
+				}
+
+				.formsbig-checkbox {
+						padding: .5em 1em;
+						margin: 1em 0;
+						cursor: pointer;
+				}
+				.forms label {
+						font-weight:bold;
+						margin:0;
+						}
+				.forms input {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+						
+				.forms textarea {
+						width: 100%;
+						padding: .5em 1em;
+						margin: 1em 0;
+						display: inline-block;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						box-sizing: border-box;
+				}
+				
+				.forms-submit {
+					    width: 100%;
+						background-color: yellow;
+						color: black;
+						font-weight:bold;
+						padding: 1em 1em;
+						margin: 1em 0;
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						cursor: pointer;
+				}
+
+				.forms-checkbox {
+						padding: .5em 1em;
+						margin: 1em 0;
+						cursor: pointer;
+				}
+				
 					.forms {
 						color:yellow;
 						padding: .5em 1em;
@@ -115,15 +202,15 @@
 						}
 						
 				.search {
-						padding: .5em 1em;
 						background-color:#c0d8e0;	
-						}
-						
-				.search h2 {
-						color:yellow;
+						width: 100%;
 						padding: .5em 1em;
+						line-height:2em;
+						display: inline-block;
+						box-sizing: border-box;
 						}
 						
+
 				img.wrap {
 						float:left;
 						max-width: 100%; 
