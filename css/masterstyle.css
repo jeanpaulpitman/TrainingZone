@@ -64,7 +64,7 @@
 						}
 
 			nav   {
-						background: #363537;
+						background: #0e18e0;
 						padding: 0;
 						}
 
@@ -221,6 +221,9 @@
 						color:black;
 						padding: 1em 1.25em;
 						}
+			.whiteboard a {
+						text-decoration: none;
+			}
 						
 			.blueboard {
 						background-color:#c0d8e0;
